@@ -1,11 +1,3 @@
-# First-Project
-First project made for class.
-Testing Markdown Text.
+# Section 2-2 Exercises
+Exercises for Section 2-2
 
-## Big Bold Title
-
-| Left Column | Right Column |
-|------------:|--------------|
-|            1|              |
-|            2|              |
-|            3|              |
